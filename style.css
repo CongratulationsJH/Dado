@@ -62,3 +62,7 @@ background: lightslategray;
 		align-content: center;
 		font-size: 120px;
 }
+
+img {
+		loading: eager;
+}
